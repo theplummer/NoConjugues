@@ -15,6 +15,8 @@ Source code is obfuscated to make it more difficult for Conjuguemos to patch the
 
 * Then paste the code you copied in the console, then press enter. Voila! The hack has been activated!
 
+Demonstration: <a href="https://www.youtube.com/watch?v=6_IDPE09Rig">https://www.youtube.com/watch?v=6_IDPE09Rig</a>
+
 Alternatively, you can install this as a script in Tampermonkey.
 
 **NOTE: This script is in development and currently supports only one kind of assignment (where you input answers for a specified amount of time). However, that should be alleviated in the future.**
