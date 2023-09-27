@@ -19,4 +19,8 @@ Demonstration: <a href="https://www.youtube.com/watch?v=6_IDPE09Rig">https://www
 
 Alternatively, you can install this as a script in Tampermonkey.
 
-**NOTE: This script is in development and currently supports only one kind of assignment (where you input answers for a specified amount of time). However, that should be alleviated in the future.**
+**NOTE: This script is in development and currently supports only two kinds of assignments:**
+- Fill-in assignments (where you input answers for a specified amount of time)
+- Graded practice (where you input answers for a user-set amount of time). 
+
+**However, to reiterate, this script is IN DEVELOPMENT and will support more kinds of assignments.**
